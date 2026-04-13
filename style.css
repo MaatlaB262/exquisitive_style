@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #faf2e9;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  padding:17px;
+  padding-top: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+li:hover a {
+  color: #a76e4c;
+}
+
+.logo {
+ font-size: 20px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-weight: 800;
+ padding-top: 29px;
+ padding-left: 8px;
+}
+
+
+
+
+
+
+
+
